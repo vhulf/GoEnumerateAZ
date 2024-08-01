@@ -6,7 +6,7 @@ For now there are only two implemented modes, one which enuemrates deployment te
 Currently requires a JWT token to be procured which is valid for the "management" azure endpoint... AZ CLI token getting implementation has been attempted but goes untested, vhulf theorizes that the token will be for "portal.azure" not "management.azure" so it's likely non-funcitonal.
 
 
-If you implement more functionanal modes please open a PR...
+If you implement more functionanal modes please open a PR! c:
 
 ## USAGE
 
